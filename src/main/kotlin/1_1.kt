@@ -55,14 +55,14 @@ fun main(args: Array<String>) {
      *     /	    나눗셈	  a/b
      *     %	    나머지 연산  a%b
      */
-    var num1 = 5
-    var b = 3
-
-    var sum = a + b 		// 8
-    var difference = a - b 		// 2
-    var product = a * b 		// 15
-    var quotient = a / b 		// 1
-    var remainder = a % b 		// 2
+//    var num1 = 5
+//    var b = 3
+//
+//    var sum = a + b 		// 8
+//    var difference = a - b 		// 2
+//    var product = a * b 		// 15
+//    var quotient = a / b 		// 1
+//    var remainder = a % b 		// 2
 
     /**
      * 복합대입 연산자
@@ -75,14 +75,14 @@ fun main(args: Array<String>) {
      */
 
     // 복합대입 연산자
-    var a = 5
-    var b = 3
-
-    a += b 			// a = 8
-    b -= 2			// b = 1
-    a *= b 			// a = 8
-    b /= 2 			// b = 0
-    a %= 3 			// a = 2
+//    var a = 5
+//    var b = 3
+//
+//    a += b 			// a = 8
+//    b -= 2			// b = 1
+//    a *= b 			// a = 8
+//    b /= 2 			// b = 0
+//    a %= 3 			// a = 2
 
     /**
      * 증감 연산자
@@ -94,11 +94,11 @@ fun main(args: Array<String>) {
      */
 
     // 증감 연산자
-    var a = 5
-    var b = ++a
-
-    println(a) // a = 6
-    println(b) // b = 6
+//    var a = 5
+//    var b = ++a
+//
+//    println(a) // a = 6
+//    println(b) // b = 6
 
     /**
      * 논리 연산자
@@ -112,10 +112,10 @@ fun main(args: Array<String>) {
      */
 
     // 논리 연산자
-    var a = true
-    var b = false
-
-    println(a && b) 			// false
-    println(a || b) 			// true
-    println(!a)     			// false
+//    var a = true
+//    var b = false
+//
+//    println(a && b) 			// false
+//    println(a || b) 			// true
+//    println(!a)     			// false
 }
